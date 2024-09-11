@@ -6,6 +6,7 @@ Documentation for a 2D action RPG built using the Bevy engine
 
 ## Links
 
+-   Documentation itself: https://gukihuman.github.io/sol-doc/
 -   Main repository: https://github.com/gukihuman/sol
 
 ## Setup
@@ -37,7 +38,7 @@ Documentation for a 2D action RPG built using the Bevy engine
 mdbook build
 ```
 
-Build output will be in the `book` folder
+Output will be in the `book` folder
 
 ## Deploy with GitHub Pages
 
