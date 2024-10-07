@@ -1,4 +1,4 @@
-# Spirit of Lira Documentation
+# Mommy's Little Monsters: Documentation
 
 ## About
 
@@ -6,8 +6,8 @@ Documentation for a 2D action RPG built using the Bevy engine
 
 ## Links
 
--   Documentation itself: https://gukihuman.github.io/sol-doc/
--   Main repository: https://github.com/gukihuman/sol
+-   Documentation itself: https://gukihuman.github.io/mlm-doc/
+-   Main repository: https://github.com/gukihuman/mlm
 
 ## Setup
 
@@ -16,9 +16,9 @@ Documentation for a 2D action RPG built using the Bevy engine
 2. Clone the repository and navigate into it
 
     ```bash
-    git clone https://github.com/gukisan/sol-doc.git
+    git clone https://github.com/gukisan/mlm-doc.git
 
-    cd sol-doc
+    cd mlm-doc
     ```
 
 3. Install mdbook
